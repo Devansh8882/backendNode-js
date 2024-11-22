@@ -1,0 +1,2 @@
+dependencies :- npm i express nodemon body-parser cors ts-node-dev typescript
+study :- npm @types/express @types/cors
