@@ -1,0 +1,18 @@
+Creating a REST API -JSON 
+
+GET /user - List all users
+
+GET /users/1 - Getthe user with id 1.
+GET /users/2 - Getthe user with id 2.
+
+POST /users  - Create new user.
+
+PATCH /users/1 - Edit the user with id 1.
+
+DELETE /users/1 - Delete the user with id 1.
+
+done above all task ...
+
+now Creating connection with mongo (build connection first , then Create Schema , after creating Schema create model ) also add then and catch condition in it .
+
+
